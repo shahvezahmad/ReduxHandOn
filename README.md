@@ -1,1 +1,1 @@
-Hands on practice with redux toolkit using counter app 
+Hands on practice using redux toolkit. i.e Counter app
